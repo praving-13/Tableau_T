@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20203.20.0801.1333                               -->
+<mapsource inline='true' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection class='OGC-WMS' description='http://ows.terrestris.de/osm/service' full-url='http://ows.terrestris.de/osm/service' inline='true' offline='' port='80' server='ows.terrestris.de' service='http' tileset='US\normal' url='/osm/service' use-tiled-maps='true' />
+  <languages />
+  <properties />
+  <map-styles />
+  <mapsource-defaults version='18.1'>
+    <style>
+      <style-rule element='map-layer'>
+        <format attr='enabled' id='OSM-WMS' value='true' />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+</mapsource>
